@@ -28,7 +28,7 @@ All the subprograms are packed in the "code_source" subfolder.
 
 *) A_Inverse_LinearOperator.m       : This function creates an simulated pupil function;
 
-The "data_source" contains the "Lena" and "Map" image for simulation.
+
 ------------------------------------------------------------------------------------------------------------------------------------
  Disclaimer
 ------------------------------------------------------------------------------------------------------------------------------------
